@@ -1,1 +1,8 @@
-
+Package: contohpackagesaya
+Version: 1.1
+Architecture: all
+Homepages: https://github.com/workandlearn
+Maintainer: maestro
+Depends: hurtf
+Installed-Size: 8 kB
+Description: A simple program
