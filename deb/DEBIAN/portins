@@ -1,0 +1,8 @@
+# di check dulu gan pip nya sudah pass atau belom
+echo
+echo "tunggu bentar gan, sedang menginstall six..."
+
+pip2 install six
+
+echo
+echo "selesai gan,, program telah terinstal dengan baik dan benar"
